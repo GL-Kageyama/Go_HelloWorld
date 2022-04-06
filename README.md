@@ -1,4 +1,4 @@
-# Go Lang Hello World
+# Go Hello World
 
 ## Code
 ```Go
